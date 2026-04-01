@@ -1,0 +1,1770 @@
+{
+  "total": 100,
+  "source": "https://v2.jokeapi.dev/joke/Any",
+  "blacklisted_flags": "nsfw,religious,political,racist,sexist,explicit",
+  "jokes": [
+    {
+      "id": 243,
+      "category": "Christmas",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "What kind of motorbike does Santa ride?",
+      "delivery": "A Holly Davidson!",
+      "full_text": "What kind of motorbike does Santa ride? ... A Holly Davidson!"
+    },
+    {
+      "id": 33,
+      "category": "Programming",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "joke": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+      "full_text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary."
+    },
+    {
+      "id": 43,
+      "category": "Programming",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "joke": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+      "full_text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5."
+    },
+    {
+      "id": 230,
+      "category": "Pun",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "How much did your chimney cost?",
+      "delivery": "Nothing, it was on the house.",
+      "full_text": "How much did your chimney cost? ... Nothing, it was on the house."
+    },
+    {
+      "id": 139,
+      "category": "Pun",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "What kind of doctor is Dr. Pepper?",
+      "delivery": "He's a fizzician.",
+      "full_text": "What kind of doctor is Dr. Pepper? ... He's a fizzician."
+    },
+    {
+      "id": 56,
+      "category": "Programming",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "joke": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+      "full_text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\""
+    },
+    {
+      "id": 291,
+      "category": "Programming",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "Why was the JavaScript developer sad?",
+      "delivery": "Because they didn't Node how to Express themself!",
+      "full_text": "Why was the JavaScript developer sad? ... Because they didn't Node how to Express themself!"
+    },
+    {
+      "id": 249,
+      "category": "Christmas",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "Who hides in the bakery at Christmas?",
+      "delivery": "A mince spy!",
+      "full_text": "Who hides in the bakery at Christmas? ... A mince spy!"
+    },
+    {
+      "id": 313,
+      "category": "Pun",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "What happened to the man who got behind on payments to his exorcist?",
+      "delivery": "He got repossessed.",
+      "full_text": "What happened to the man who got behind on payments to his exorcist? ... He got repossessed."
+    },
+    {
+      "id": 287,
+      "category": "Misc",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "joke": "A perfectionist walked into a bar... apparently, the bar was not set high enough.",
+      "full_text": "A perfectionist walked into a bar... apparently, the bar was not set high enough."
+    },
+    {
+      "id": 221,
+      "category": "Pun",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "Why do cows wear bells?",
+      "delivery": "Because their horns don't work!",
+      "full_text": "Why do cows wear bells? ... Because their horns don't work!"
+    },
+    {
+      "id": 87,
+      "category": "Misc",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "Mom asked me where I'm taking her to go out to eat for mother's day.",
+      "delivery": "I told her, \"We already have food in the house\".",
+      "full_text": "Mom asked me where I'm taking her to go out to eat for mother's day. ... I told her, \"We already have food in the house\"."
+    },
+    {
+      "id": 31,
+      "category": "Programming",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "Why did the JavaScript heap close shop?",
+      "delivery": "It ran out of memory.",
+      "full_text": "Why did the JavaScript heap close shop? ... It ran out of memory."
+    },
+    {
+      "id": 185,
+      "category": "Dark",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": false,
+      "lang": "en",
+      "setup": "Why can't orphans play baseball?",
+      "delivery": "They don't know where home is.",
+      "full_text": "Why can't orphans play baseball? ... They don't know where home is."
+    },
+    {
+      "id": 84,
+      "category": "Dark",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "My wife divorced me so I stole her wheelchair.",
+      "delivery": "Guess who came crawling back.",
+      "full_text": "My wife divorced me so I stole her wheelchair. ... Guess who came crawling back."
+    },
+    {
+      "id": 164,
+      "category": "Dark",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": false,
+      "lang": "en",
+      "joke": "My little daughter came to me all excited, saying \"Daddy! Daddy! Guess how old I'll be in June!\"\n\"Oh I don't know princess, why don't you tell me?\" I said. She gave me a huge smile and held up four fingers.\nIt's now three hours later, police have joined in and she still won't say where she got them.",
+      "full_text": "My little daughter came to me all excited, saying \"Daddy! Daddy! Guess how old I'll be in June!\"\n\"Oh I don't know princess, why don't you tell me?\" I said. She gave me a huge smile and held up four fingers.\nIt's now three hours later, police have joined in and she still won't say where she got them."
+    },
+    {
+      "id": 213,
+      "category": "Programming",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "Why did the programmer jump on the table?",
+      "delivery": "Because debug was on his screen.",
+      "full_text": "Why did the programmer jump on the table? ... Because debug was on his screen."
+    },
+    {
+      "id": 206,
+      "category": "Dark",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": false,
+      "lang": "en",
+      "joke": "I was going to tell a dead baby joke. But I decided to abort.",
+      "full_text": "I was going to tell a dead baby joke. But I decided to abort."
+    },
+    {
+      "id": 222,
+      "category": "Misc",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "Why was the mushroom always invited to parties?",
+      "delivery": "Cause he's a fungi.",
+      "full_text": "Why was the mushroom always invited to parties? ... Cause he's a fungi."
+    },
+    {
+      "id": 77,
+      "category": "Misc",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "I WRITE MY JOKES IN CAPITALS.",
+      "delivery": "THIS ONE WAS WRITTEN IN PARIS.",
+      "full_text": "I WRITE MY JOKES IN CAPITALS. ... THIS ONE WAS WRITTEN IN PARIS."
+    },
+    {
+      "id": 117,
+      "category": "Dark",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": false,
+      "lang": "en",
+      "setup": "Jokes about anti-vaxxer parents never get old.",
+      "delivery": "Just like their kids.",
+      "full_text": "Jokes about anti-vaxxer parents never get old. ... Just like their kids."
+    },
+    {
+      "id": 298,
+      "category": "Spooky",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "Why did the ghost go inside the bar?",
+      "delivery": "For the boos.",
+      "full_text": "Why did the ghost go inside the bar? ... For the boos."
+    },
+    {
+      "id": 195,
+      "category": "Pun",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "What do you call a cow with no legs?",
+      "delivery": "Ground beef.",
+      "full_text": "What do you call a cow with no legs? ... Ground beef."
+    },
+    {
+      "id": 12,
+      "category": "Programming",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "joke": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+      "full_text": "// This line doesn't actually do anything, but the code stops working when I delete it."
+    },
+    {
+      "id": 209,
+      "category": "Pun",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "What do you call a deer with no eyes?",
+      "delivery": "No eye deer.",
+      "full_text": "What do you call a deer with no eyes? ... No eye deer."
+    },
+    {
+      "id": 38,
+      "category": "Programming",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "joke": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+      "full_text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\""
+    },
+    {
+      "id": 66,
+      "category": "Pun",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "What kind of car did Whitney Houston drive?",
+      "delivery": "A Hyundaiiiiiiiiiiii",
+      "full_text": "What kind of car did Whitney Houston drive? ... A Hyundaiiiiiiiiiiii"
+    },
+    {
+      "id": 58,
+      "category": "Pun",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "Thank you student loans for getting me through college.",
+      "delivery": "I don't think I'll ever be able to repay you.",
+      "full_text": "Thank you student loans for getting me through college. ... I don't think I'll ever be able to repay you."
+    },
+    {
+      "id": 199,
+      "category": "Pun",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "joke": "Today, my son asked \"Can I have a book mark?\" and I burst into tears.\n11 years old and he still doesn't know my name is Brian.",
+      "full_text": "Today, my son asked \"Can I have a book mark?\" and I burst into tears.\n11 years old and he still doesn't know my name is Brian."
+    },
+    {
+      "id": 279,
+      "category": "Pun",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "To prove he was right, the flat-earther walked to the end of the Earth.",
+      "delivery": "He eventually came around.",
+      "full_text": "To prove he was right, the flat-earther walked to the end of the Earth. ... He eventually came around."
+    },
+    {
+      "id": 125,
+      "category": "Pun",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "joke": "I'm reading a book about anti-gravity. It's impossible to put down!",
+      "full_text": "I'm reading a book about anti-gravity. It's impossible to put down!"
+    },
+    {
+      "id": 26,
+      "category": "Programming",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "What do you get if you lock a monkey in a room with a typewriter for 8 hours?",
+      "delivery": "A regular expression.",
+      "full_text": "What do you get if you lock a monkey in a room with a typewriter for 8 hours? ... A regular expression."
+    },
+    {
+      "id": 46,
+      "category": "Programming",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "What's the object-oriented way to become wealthy?",
+      "delivery": "Inheritance.",
+      "full_text": "What's the object-oriented way to become wealthy? ... Inheritance."
+    },
+    {
+      "id": 55,
+      "category": "Programming",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "What is a dying programmer's last program?",
+      "delivery": "Goodbye, world!",
+      "full_text": "What is a dying programmer's last program? ... Goodbye, world!"
+    },
+    {
+      "id": 3,
+      "category": "Programming",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "joke": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+      "full_text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't."
+    },
+    {
+      "id": 266,
+      "category": "Pun",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "What's the difference between a poorly dressed man on a unicycle and a well dressed man on a bicycle?",
+      "delivery": "Attire.",
+      "full_text": "What's the difference between a poorly dressed man on a unicycle and a well dressed man on a bicycle? ... Attire."
+    },
+    {
+      "id": 145,
+      "category": "Misc",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "This morning I accidentally made my coffee with Red Bull instead of water.",
+      "delivery": "I was already on the highway when I noticed I forgot my car at home.",
+      "full_text": "This morning I accidentally made my coffee with Red Bull instead of water. ... I was already on the highway when I noticed I forgot my car at home."
+    },
+    {
+      "id": 50,
+      "category": "Programming",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "joke": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+      "full_text": "Algorithm: A word used by programmers when they don't want to explain how their code works."
+    },
+    {
+      "id": 187,
+      "category": "Misc",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": false,
+      "lang": "en",
+      "setup": "What's the difference between a school bus and a cactus?",
+      "delivery": "A cactus keeps the little pricks on the outside.",
+      "full_text": "What's the difference between a school bus and a cactus? ... A cactus keeps the little pricks on the outside."
+    },
+    {
+      "id": 244,
+      "category": "Christmas",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "What says Oh Oh Oh?",
+      "delivery": "Santa walking backwards!",
+      "full_text": "What says Oh Oh Oh? ... Santa walking backwards!"
+    },
+    {
+      "id": 274,
+      "category": "Dark",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": false,
+      "lang": "en",
+      "joke": "My girlfriend's dog died, so I tried to cheer her up by getting her an identical one. It just made her more upset. She screamed at me, \"What am I supposed to do with two dead dogs?\"",
+      "full_text": "My girlfriend's dog died, so I tried to cheer her up by getting her an identical one. It just made her more upset. She screamed at me, \"What am I supposed to do with two dead dogs?\""
+    },
+    {
+      "id": 52,
+      "category": "Programming",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "Why do Java programmers hate communism?",
+      "delivery": "They don't want to live in a classless society.",
+      "full_text": "Why do Java programmers hate communism? ... They don't want to live in a classless society."
+    },
+    {
+      "id": 34,
+      "category": "Programming",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "joke": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+      "full_text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\""
+    },
+    {
+      "id": 6,
+      "category": "Programming",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "Why did the web developer walk out of a resturant in disgust?",
+      "delivery": "The seating was laid out in tables.",
+      "full_text": "Why did the web developer walk out of a resturant in disgust? ... The seating was laid out in tables."
+    },
+    {
+      "id": 285,
+      "category": "Pun",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "A Roman walks into a bar and raises 2 fingers and says to the bartender...",
+      "delivery": "\"Five beers, please.\"",
+      "full_text": "A Roman walks into a bar and raises 2 fingers and says to the bartender... ... \"Five beers, please.\""
+    },
+    {
+      "id": 35,
+      "category": "Programming",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "joke": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+      "full_text": "There are only 10 kinds of people in this world: those who know binary and those who don't."
+    },
+    {
+      "id": 247,
+      "category": "Christmas",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "What do Santa's little helpers learn at school?",
+      "delivery": "The elf-abet!\n",
+      "full_text": "What do Santa's little helpers learn at school? ... The elf-abet!\n"
+    },
+    {
+      "id": 272,
+      "category": "Misc",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "joke": "My husband and I were happy for 20 years. And then we met.",
+      "full_text": "My husband and I were happy for 20 years. And then we met."
+    },
+    {
+      "id": 207,
+      "category": "Dark",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": false,
+      "lang": "en",
+      "joke": "I'll never forget my Granddad's last words to me just before he died. \"Are you still holding the ladder?\"",
+      "full_text": "I'll never forget my Granddad's last words to me just before he died. \"Are you still holding the ladder?\""
+    },
+    {
+      "id": 116,
+      "category": "Dark",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": false,
+      "lang": "en",
+      "setup": "Dark humor is like cancer.",
+      "delivery": "It's funnier when children get it.",
+      "full_text": "Dark humor is like cancer. ... It's funnier when children get it."
+    },
+    {
+      "id": 142,
+      "category": "Dark",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": false,
+      "lang": "en",
+      "setup": "When I was a kid, I made a really big sandcastle with my grandma.",
+      "delivery": "Unfortunately, that didn't impress anyone at the cremation...",
+      "full_text": "When I was a kid, I made a really big sandcastle with my grandma. ... Unfortunately, that didn't impress anyone at the cremation..."
+    },
+    {
+      "id": 47,
+      "category": "Programming",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "Why did the functional programmer get thrown out of school?",
+      "delivery": "Because he refused to take classes.",
+      "full_text": "Why did the functional programmer get thrown out of school? ... Because he refused to take classes."
+    },
+    {
+      "id": 270,
+      "category": "Misc",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "joke": "Never date a baker. They're too kneady.",
+      "full_text": "Never date a baker. They're too kneady."
+    },
+    {
+      "id": 37,
+      "category": "Programming",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "joke": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+      "full_text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science."
+    },
+    {
+      "id": 124,
+      "category": "Pun",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "What time did the man go to the dentist?",
+      "delivery": "Tooth hurt-y.",
+      "full_text": "What time did the man go to the dentist? ... Tooth hurt-y."
+    },
+    {
+      "id": 208,
+      "category": "Pun",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "Why did the chicken cross the road, roll in the mud and cross the road again?",
+      "delivery": "He was a dirty double-crosser!",
+      "full_text": "Why did the chicken cross the road, roll in the mud and cross the road again? ... He was a dirty double-crosser!"
+    },
+    {
+      "id": 137,
+      "category": "Dark",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": false,
+      "lang": "en",
+      "joke": "Doctor: \"I have some news about your baby.\"\nParents: \"Don't tell us the gender, we want to keep it a surprise.\"\nDoctor: \"Oh I get it, you're those type of people. Okay, well IT is not breathing.\"",
+      "full_text": "Doctor: \"I have some news about your baby.\"\nParents: \"Don't tell us the gender, we want to keep it a surprise.\"\nDoctor: \"Oh I get it, you're those type of people. Okay, well IT is not breathing.\""
+    },
+    {
+      "id": 44,
+      "category": "Programming",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "joke": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+      "full_text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday."
+    },
+    {
+      "id": 51,
+      "category": "Programming",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "So what's a set of predefined steps the government might take to preserve the environment?",
+      "delivery": "An Al-Gore-ithm.",
+      "full_text": "So what's a set of predefined steps the government might take to preserve the environment? ... An Al-Gore-ithm."
+    },
+    {
+      "id": 86,
+      "category": "Pun",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "I hate Russian matryoshka dolls.",
+      "delivery": "They're so full of themselves.",
+      "full_text": "I hate Russian matryoshka dolls. ... They're so full of themselves."
+    },
+    {
+      "id": 273,
+      "category": "Dark",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": false,
+      "lang": "en",
+      "joke": "I hate double standards. Burn a body at a crematorium, you're \"being a respectful friend.\" Do it at home and you're \"destroying evidence.\"",
+      "full_text": "I hate double standards. Burn a body at a crematorium, you're \"being a respectful friend.\" Do it at home and you're \"destroying evidence.\""
+    },
+    {
+      "id": 147,
+      "category": "Pun",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "The gas Argon walks into a bar.\nThe barkeeper says \"What would you like to drink?\"",
+      "delivery": "But Argon doesn't react.",
+      "full_text": "The gas Argon walks into a bar.\nThe barkeeper says \"What would you like to drink?\" ... But Argon doesn't react."
+    },
+    {
+      "id": 296,
+      "category": "Spooky",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "What's it like to be kissed by a vampire?",
+      "delivery": "It's a pain in the neck.",
+      "full_text": "What's it like to be kissed by a vampire? ... It's a pain in the neck."
+    },
+    {
+      "id": 5,
+      "category": "Programming",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "joke": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+      "full_text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\""
+    },
+    {
+      "id": 233,
+      "category": "Programming",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "Why did the Python data scientist get arrested at customs?",
+      "delivery": "She was caught trying to import pandas!",
+      "full_text": "Why did the Python data scientist get arrested at customs? ... She was caught trying to import pandas!"
+    },
+    {
+      "id": 22,
+      "category": "Programming",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "joke": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+      "full_text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does."
+    },
+    {
+      "id": 18,
+      "category": "Programming",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "joke": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+      "full_text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned."
+    },
+    {
+      "id": 295,
+      "category": "Spooky",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "What is in a ghost's nose?",
+      "delivery": "Boo-gers.",
+      "full_text": "What is in a ghost's nose? ... Boo-gers."
+    },
+    {
+      "id": 53,
+      "category": "Programming",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "Hey baby I wish your name was asynchronous...",
+      "delivery": "... so you'd give me a callback.",
+      "full_text": "Hey baby I wish your name was asynchronous... ... ... so you'd give me a callback."
+    },
+    {
+      "id": 138,
+      "category": "Misc",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "joke": "If you're here for the yodeling lesson, please form an orderly orderly orderly queue.",
+      "full_text": "If you're here for the yodeling lesson, please form an orderly orderly orderly queue."
+    },
+    {
+      "id": 16,
+      "category": "Programming",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "Why did the programmer quit his job?",
+      "delivery": "Because he didn't get arrays.",
+      "full_text": "Why did the programmer quit his job? ... Because he didn't get arrays."
+    },
+    {
+      "id": 293,
+      "category": "Programming",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "why do python programmers wear glasses?",
+      "delivery": "Because they can't C.",
+      "full_text": "why do python programmers wear glasses? ... Because they can't C."
+    },
+    {
+      "id": 214,
+      "category": "Pun",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "I walked into a bar once.",
+      "delivery": "It really hurt my head.",
+      "full_text": "I walked into a bar once. ... It really hurt my head."
+    },
+    {
+      "id": 190,
+      "category": "Pun",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "joke": "To whoever stole my copy of Microsoft Office, I will find you. You have my Word!",
+      "full_text": "To whoever stole my copy of Microsoft Office, I will find you. You have my Word!"
+    },
+    {
+      "id": 192,
+      "category": "Programming",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "What is the most used language in programming?",
+      "delivery": "Profanity.",
+      "full_text": "What is the most used language in programming? ... Profanity."
+    },
+    {
+      "id": 7,
+      "category": "Programming",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "Why is 6 afraid of 7 in hexadecimal Canada?",
+      "delivery": "Because 7 8 9 A?",
+      "full_text": "Why is 6 afraid of 7 in hexadecimal Canada? ... Because 7 8 9 A?"
+    },
+    {
+      "id": 41,
+      "category": "Programming",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "joke": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+      "full_text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you."
+    },
+    {
+      "id": 255,
+      "category": "Pun",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "Why did the banana go see a doctor?",
+      "delivery": "Because it wasn't peeling well.",
+      "full_text": "Why did the banana go see a doctor? ... Because it wasn't peeling well."
+    },
+    {
+      "id": 67,
+      "category": "Dark",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": false,
+      "lang": "en",
+      "setup": "I had a granny that we couldn't decide whether to bury or cremate",
+      "delivery": "In the end we decided to just let her live.",
+      "full_text": "I had a granny that we couldn't decide whether to bury or cremate ... In the end we decided to just let her live."
+    },
+    {
+      "id": 92,
+      "category": "Dark",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": false,
+      "lang": "en",
+      "setup": "I told my psychiatrist I got suicidal tendencies.",
+      "delivery": "He said from now on I have to pay in advance.",
+      "full_text": "I told my psychiatrist I got suicidal tendencies. ... He said from now on I have to pay in advance."
+    },
+    {
+      "id": 24,
+      "category": "Programming",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "joke": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+      "full_text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\""
+    },
+    {
+      "id": 93,
+      "category": "Misc",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "My mother said, \"You won't amount to anything because you always procrastinate.\"",
+      "delivery": "I said, \"Oh yeah... Just you wait.\"",
+      "full_text": "My mother said, \"You won't amount to anything because you always procrastinate.\" ... I said, \"Oh yeah... Just you wait.\""
+    },
+    {
+      "id": 309,
+      "category": "Dark",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": false,
+      "lang": "en",
+      "setup": "What's yellow and can't swim?",
+      "delivery": "A bus full of children.",
+      "full_text": "What's yellow and can't swim? ... A bus full of children."
+    },
+    {
+      "id": 0,
+      "category": "Programming",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "joke": "I've got a really good UDP joke to tell you but I don’t know if you'll get it.",
+      "full_text": "I've got a really good UDP joke to tell you but I don’t know if you'll get it."
+    },
+    {
+      "id": 225,
+      "category": "Programming",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "Why do they call it hyper terminal?",
+      "delivery": "Too much Java.",
+      "full_text": "Why do they call it hyper terminal? ... Too much Java."
+    },
+    {
+      "id": 146,
+      "category": "Programming",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "How did you make your friend rage?",
+      "delivery": "I implemented a greek question mark in his JavaScript code.",
+      "full_text": "How did you make your friend rage? ... I implemented a greek question mark in his JavaScript code."
+    },
+    {
+      "id": 49,
+      "category": "Programming",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "Why do programmers wear glasses?",
+      "delivery": "Because they need to C#",
+      "full_text": "Why do programmers wear glasses? ... Because they need to C#"
+    },
+    {
+      "id": 265,
+      "category": "Programming",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": false,
+      "lang": "en",
+      "setup": "How did the programmer die in the shower?",
+      "delivery": "He read the shampoo bottle instructions: Lather. Rinse. Repeat.",
+      "full_text": "How did the programmer die in the shower? ... He read the shampoo bottle instructions: Lather. Rinse. Repeat."
+    },
+    {
+      "id": 316,
+      "category": "Pun",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "What do you call a caveman's fart?",
+      "delivery": "A blast from the past.",
+      "full_text": "What do you call a caveman's fart? ... A blast from the past."
+    },
+    {
+      "id": 71,
+      "category": "Misc",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": false,
+      "lang": "en",
+      "joke": "Two reasons I don't give money to homeless people.\n1) They are going to spend it all on drugs and alcohol\n2) I am going to spend it all on drugs and alcohol.",
+      "full_text": "Two reasons I don't give money to homeless people.\n1) They are going to spend it all on drugs and alcohol\n2) I am going to spend it all on drugs and alcohol."
+    },
+    {
+      "id": 237,
+      "category": "Pun",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "joke": "I have a joke about trickle down economics, but 99% of you will never get it.",
+      "full_text": "I have a joke about trickle down economics, but 99% of you will never get it."
+    },
+    {
+      "id": 45,
+      "category": "Programming",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "joke": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+      "full_text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\""
+    },
+    {
+      "id": 131,
+      "category": "Programming",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "joke": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+      "full_text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\"."
+    },
+    {
+      "id": 39,
+      "category": "Programming",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "joke": "The generation of random numbers is too important to be left to chance.",
+      "full_text": "The generation of random numbers is too important to be left to chance."
+    },
+    {
+      "id": 140,
+      "category": "Misc",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "What's the difference between a hot potato and a flying pig?",
+      "delivery": "One's a heated yam, the other's a yeeted ham.",
+      "full_text": "What's the difference between a hot potato and a flying pig? ... One's a heated yam, the other's a yeeted ham."
+    },
+    {
+      "id": 1,
+      "category": "Programming",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "How many programmers does it take to screw in a light bulb?",
+      "delivery": "None. It's a hardware problem.",
+      "full_text": "How many programmers does it take to screw in a light bulb? ... None. It's a hardware problem."
+    },
+    {
+      "id": 246,
+      "category": "Christmas",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "What's Santa's favourite type of music?",
+      "delivery": "Wrap!",
+      "full_text": "What's Santa's favourite type of music? ... Wrap!"
+    },
+    {
+      "id": 200,
+      "category": "Misc",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "joke": "My wife is really mad at the fact that I have no sense of direction.\nSo I packed up my stuff and right.",
+      "full_text": "My wife is really mad at the fact that I have no sense of direction.\nSo I packed up my stuff and right."
+    },
+    {
+      "id": 263,
+      "category": "Programming",
+      "type": "twopart",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "setup": "Why are Assembly programmers always soaking wet?",
+      "delivery": "They work below C-level.",
+      "full_text": "Why are Assembly programmers always soaking wet? ... They work below C-level."
+    },
+    {
+      "id": 318,
+      "category": "Programming",
+      "type": "single",
+      "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+      },
+      "safe": true,
+      "lang": "en",
+      "joke": "I'd tell you a joke about NAT but I would have to translate.",
+      "full_text": "I'd tell you a joke about NAT but I would have to translate."
+    }
+  ]
+}

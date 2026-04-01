@@ -1,0 +1,20 @@
+[project]
+name = "llm-challenge"
+version = "0.1.0"
+description = "LLM grounding challenge — RAG app with Flask and ChromaDB"
+requires-python = ">=3.12"
+dependencies = [
+    "flask>=3.0.0",
+    "chromadb>=0.5.0",
+    "sentence-transformers>=3.0.0",
+    "openai>=1.0.0",
+    "python-dotenv>=1.0.0",
+    "pypdf>=4.0.0",
+    "pandas>=2.0.0",
+    "tiktoken>=0.7.0",
+]
+
+[tool.uv]
+dev-dependencies = [
+    "pytest>=8.0.0",
+]
